@@ -37,7 +37,7 @@ git checkout -b add-your-name
 
 ### 4️⃣ Add Your Name
 
-Open (or create) the `CONTRIBUTORS.md` file and add your name in this format:
+Open the `Contributors.md` file and add your name in this format:
 
 ```md
 * [Your Name](https://github.com/your-username)
@@ -50,7 +50,7 @@ Open (or create) the `CONTRIBUTORS.md` file and add your name in this format:
 ### 5️⃣ Commit Your Changes
 
 ```bash
-git add CONTRIBUTORS.md
+git add Contributors.md
 git commit -m "Add Your Name to contributors list"
 ```
 
@@ -77,7 +77,7 @@ Once your PR is merged, you are officially an open-source contributor.
 
 ## 📌 Contribution Guidelines
 
-- Only modify `CONTRIBUTORS.md`
+- Only modify `Contributors.md`
 - Add your name in the correct format
 - Keep pull requests focused on a single change
 - Be respectful and kind to other contributors
