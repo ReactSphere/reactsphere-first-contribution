@@ -61,7 +61,7 @@ git checkout -b add-your-name
 
 ### 5️⃣ Add Your Name
 
-Open (or create) a file named `CONTRIBUTORS.md`.
+Open the `Contributors.md` file.
 
 Add your name using this format:
 
@@ -76,7 +76,7 @@ Add your name using this format:
 ### 6️⃣ Commit Your Changes
 
 ```bash
-git add CONTRIBUTORS.md
+git add Contributors.md
 git commit -m "Add Your Name to contributors list"
 ```
 
@@ -102,7 +102,7 @@ git push origin add-your-name
 
 ## 📌 Contribution Guidelines
 
-- Only modify `CONTRIBUTORS.md`
+- Only modify `Contributors.md`
 - Add your name in the correct format
 - Keep pull requests focused on a single change
 - Be respectful and supportive
