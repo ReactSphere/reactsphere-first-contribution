@@ -10,8 +10,9 @@ If your name is below — congratulations! 🎉
 ## 🚀 Contributors
 
 * [Naheel Muhammed ](https://github.com/naheel0)
-* [Amal Krishna ](https://githib.com/Amal-24)
-* [abhijith-k-r](https://github.con/abhijith-k-r)
+* [Amal Krishna ](https://github.com/Amal-24)
+* [abhijith-k-r](https://github.com/abhijith-k-r)
+* [Adithyan](https://github.com/adithyanmkd)
 
 
 ---
