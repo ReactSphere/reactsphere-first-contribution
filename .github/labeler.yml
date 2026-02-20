@@ -1,17 +1,11 @@
 # Auto-label rules based on files changed in a PR
 
 first-contribution:
-  - changed-files:
-      - any-glob-to-any-file:
-          - "Contributors.md"
+  - Contributors.md
 
 documentation:
-  - changed-files:
-      - any-glob-to-any-file:
-          - "*.md"
-          - "docs/**"
+  - "*.md"
+  - "docs/**"
 
 github-config:
-  - changed-files:
-      - any-glob-to-any-file:
-          - ".github/**"
+  - ".github/**"

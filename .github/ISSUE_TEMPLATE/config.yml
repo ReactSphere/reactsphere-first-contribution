@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 💬 Ask for Help
+    url: https://github.com/ReactSphere/reactsphere-first-contribution/discussions
+    about: Ask questions or get help with contributing.
