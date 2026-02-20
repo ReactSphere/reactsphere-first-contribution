@@ -10,6 +10,7 @@ If your name is below — congratulations! 🎉
 ## 🚀 Contributors
 
 * [Naheel Muhammed ](https://github.com/naheel0)
+* [Amal Krishna ](https://githib.com/Amal-24)
 
 ---
 
