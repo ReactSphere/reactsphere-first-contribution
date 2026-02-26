@@ -1,11 +1,2 @@
-# Auto-label rules based on files changed in a PR
-
 first-contribution:
-  - Contributors.md
-
-documentation:
-  - "*.md"
-  - "docs/**"
-
-github-config:
-  - ".github/**"
+  - '**/*'
