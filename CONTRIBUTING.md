@@ -41,6 +41,7 @@ Open the `Contributors.md` file and add your name in this format:
 
 ```md
 * [Your Name](https://github.com/your-username)
+
 ```
 
 ⚠️ Please do not edit or remove other contributors' names.
