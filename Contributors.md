@@ -18,7 +18,7 @@ If your name is below — congratulations! 🎉
 * [	ashfak](https://github.com/ashfak88)
 * [jefin](https://github.com/jefin-s)
 * [Bismay](https://github.com/Bismay-exe)
-- [BhaveshKumbhare](https://github.com/bhaveshkumbhare)
+* [BhaveshKumbhare](https://github.com/bhaveshkumbhare)
 
 
 
