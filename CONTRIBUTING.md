@@ -40,7 +40,11 @@ git checkout -b add-your-name
 Open the `Contributors.md` file and add your name in this format:
 
 ```md
+<<<<<<< HEAD
 * [Your Name](https://github.com/your-username)
+=======
+* [bhaveshkumbhare](https://github.com/bhaveshkumbhare)
+>>>>>>> 78040d1 (added my name)
 ```
 
 ⚠️ Please do not edit or remove other contributors' names.
