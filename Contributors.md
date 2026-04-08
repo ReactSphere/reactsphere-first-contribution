@@ -19,6 +19,7 @@ If your name is below — congratulations! 🎉
 * [jefin](https://github.com/jefin-s)
 * [Bismay](https://github.com/Bismay-exe)
 * [BhaveshKumbhare](https://github.com/bhaveshkumbhare)
+* [Vikramaditya Gorai](https://github.com/Vikramaditya-01)
 
 
 
