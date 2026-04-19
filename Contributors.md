@@ -20,6 +20,7 @@ If your name is below — congratulations! 🎉
 * [Bismay](https://github.com/Bismay-exe)
 * [BhaveshKumbhare](https://github.com/bhaveshkumbhare)
 * [Vikramaditya Gorai](https://github.com/Vikramaditya-01)
+* [Mubashir Iqbal](https://github.com/mubshr07)
 
 
 
