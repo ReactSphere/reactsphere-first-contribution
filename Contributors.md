@@ -21,7 +21,7 @@ If your name is below — congratulations! 🎉
 * [BhaveshKumbhare](https://github.com/bhaveshkumbhare)
 * [Vikramaditya Gorai](https://github.com/Vikramaditya-01)
 * [Mubashir Iqbal](https://github.com/mubshr07)
-
+* [Shah Arif](https://github.com/Shatix)
 
 
 ---
@@ -38,3 +38,5 @@ If your name is below — congratulations! 🎉
 ---
 
 Thank you for being part of the ReactSphere community 💙
+
+ 
